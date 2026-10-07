@@ -1,0 +1,429 @@
+﻿ano,metrica,uf,total_feminicidios
+2016,feminicidios,Acre,14
+2016,feminicidios,Alagoas,36
+2016,feminicidios,Amazonas,10
+2016,feminicidios,Bahia,18
+2016,feminicidios,Distrito Federal,20
+2016,feminicidios,Espírito Santo,35
+2016,feminicidios,Goiás,17
+2016,feminicidios,Mato Grosso,49
+2016,feminicidios,Mato Grosso do Sul,34
+2016,feminicidios,Minas Gerais,134
+2016,feminicidios,Pará,44
+2016,feminicidios,Paraíba,24
+2016,feminicidios,Paraná,20
+2016,feminicidios,Pernambuco,112
+2016,feminicidios,Piauí,31
+2016,feminicidios,Rio de Janeiro,16
+2016,feminicidios,Rio Grande do Norte,27
+2016,feminicidios,Rio Grande do Sul,96
+2016,feminicidios,Rondônia,37
+2016,feminicidios,Roraima,3
+2016,feminicidios,Santa Catarina,54
+2016,feminicidios,São Paulo,60
+2016,feminicidios,Tocantins,38
+2016,homicidios_mulheres,Acre,14
+2016,homicidios_mulheres,Alagoas,36
+2016,homicidios_mulheres,Amazonas,10
+2016,homicidios_mulheres,Bahia,18
+2016,homicidios_mulheres,Distrito Federal,20
+2016,homicidios_mulheres,Espírito Santo,35
+2016,homicidios_mulheres,Goiás,17
+2016,homicidios_mulheres,Mato Grosso,49
+2016,homicidios_mulheres,Mato Grosso do Sul,34
+2016,homicidios_mulheres,Minas Gerais,134
+2016,homicidios_mulheres,Pará,44
+2016,homicidios_mulheres,Paraíba,24
+2016,homicidios_mulheres,Paraná,20
+2016,homicidios_mulheres,Pernambuco,112
+2016,homicidios_mulheres,Piauí,31
+2016,homicidios_mulheres,Rio de Janeiro,16
+2016,homicidios_mulheres,Rio Grande do Norte,27
+2016,homicidios_mulheres,Rio Grande do Sul,96
+2016,homicidios_mulheres,Rondônia,37
+2016,homicidios_mulheres,Roraima,3
+2016,homicidios_mulheres,Santa Catarina,54
+2016,homicidios_mulheres,São Paulo,60
+2016,homicidios_mulheres,Tocantins,38
+2017,feminicidios,Acre,13
+2017,feminicidios,Alagoas,65
+2017,feminicidios,Amapá,2
+2017,feminicidios,Amazonas,16
+2017,feminicidios,Bahia,74
+2017,feminicidios,Ceará,22
+2017,feminicidios,Distrito Federal,37
+2017,feminicidios,Espírito Santo,42
+2017,feminicidios,Goiás,54
+2017,feminicidios,Maranhão,101
+2017,feminicidios,Mato Grosso,76
+2017,feminicidios,Mato Grosso do Sul,56
+2017,feminicidios,Minas Gerais,295
+2017,feminicidios,Pará,86
+2017,feminicidios,Paraíba,22
+2017,feminicidios,Paraná,62
+2017,feminicidios,Pernambuco,76
+2017,feminicidios,Piauí,26
+2017,feminicidios,Rio de Janeiro,68
+2017,feminicidios,Rio Grande do Norte,23
+2017,feminicidios,Rio Grande do Sul,83
+2017,feminicidios,Rondônia,54
+2017,feminicidios,Roraima,3
+2017,feminicidios,Santa Catarina,100
+2017,feminicidios,São Paulo,228
+2017,feminicidios,Sergipe,6
+2017,feminicidios,Tocantins,32
+2017,homicidios_mulheres,Acre,13
+2017,homicidios_mulheres,Alagoas,65
+2017,homicidios_mulheres,Amapá,2
+2017,homicidios_mulheres,Amazonas,16
+2017,homicidios_mulheres,Bahia,74
+2017,homicidios_mulheres,Ceará,22
+2017,homicidios_mulheres,Distrito Federal,37
+2017,homicidios_mulheres,Espírito Santo,42
+2017,homicidios_mulheres,Goiás,54
+2017,homicidios_mulheres,Maranhão,101
+2017,homicidios_mulheres,Mato Grosso,76
+2017,homicidios_mulheres,Mato Grosso do Sul,56
+2017,homicidios_mulheres,Minas Gerais,295
+2017,homicidios_mulheres,Pará,86
+2017,homicidios_mulheres,Paraíba,22
+2017,homicidios_mulheres,Paraná,62
+2017,homicidios_mulheres,Pernambuco,76
+2017,homicidios_mulheres,Piauí,26
+2017,homicidios_mulheres,Rio de Janeiro,68
+2017,homicidios_mulheres,Rio Grande do Norte,23
+2017,homicidios_mulheres,Rio Grande do Sul,83
+2017,homicidios_mulheres,Rondônia,54
+2017,homicidios_mulheres,Roraima,3
+2017,homicidios_mulheres,Santa Catarina,100
+2017,homicidios_mulheres,São Paulo,228
+2017,homicidios_mulheres,Sergipe,6
+2017,homicidios_mulheres,Tocantins,32
+2018,feminicidios,Acre,14
+2018,feminicidios,Alagoas,21
+2018,feminicidios,Amapá,8
+2018,feminicidios,Amazonas,4
+2018,feminicidios,Bahia,151
+2018,feminicidios,Ceará,57
+2018,feminicidios,Distrito Federal,28
+2018,feminicidios,Espírito Santo,65
+2018,feminicidios,Goiás,71
+2018,feminicidios,Maranhão,89
+2018,feminicidios,Mato Grosso,42
+2018,feminicidios,Mato Grosso do Sul,36
+2018,feminicidios,Minas Gerais,313
+2018,feminicidios,Pará,129
+2018,feminicidios,Paraíba,34
+2018,feminicidios,Paraná,130
+2018,feminicidios,Pernambuco,74
+2018,feminicidios,Piauí,53
+2018,feminicidios,Rio de,71
+2018,feminicidios,Rio de Janeiro,71
+2018,feminicidios,Rio Grande,144
+2018,feminicidios,Rio Grande do Norte,28
+2018,feminicidios,Rio Grande do Sul,117
+2018,feminicidios,Rondônia,9
+2018,feminicidios,Roraima,4
+2018,feminicidios,Santa Catarina,42
+2018,feminicidios,São Paulo,136
+2018,feminicidios,Sergipe,16
+2018,feminicidios,Tocantins,6
+2018,homicidios_mulheres,Acre,14
+2018,homicidios_mulheres,Alagoas,21
+2018,homicidios_mulheres,Amapá,8
+2018,homicidios_mulheres,Amazonas,4
+2018,homicidios_mulheres,Bahia,151
+2018,homicidios_mulheres,Ceará,57
+2018,homicidios_mulheres,Distrito Federal,28
+2018,homicidios_mulheres,Espírito Santo,65
+2018,homicidios_mulheres,Goiás,71
+2018,homicidios_mulheres,Maranhão,89
+2018,homicidios_mulheres,Mato Grosso,42
+2018,homicidios_mulheres,Mato Grosso do Sul,36
+2018,homicidios_mulheres,Minas Gerais,313
+2018,homicidios_mulheres,Pará,129
+2018,homicidios_mulheres,Paraíba,34
+2018,homicidios_mulheres,Paraná,130
+2018,homicidios_mulheres,Pernambuco,74
+2018,homicidios_mulheres,Piauí,53
+2018,homicidios_mulheres,Rio de,71
+2018,homicidios_mulheres,Rio de Janeiro,71
+2018,homicidios_mulheres,Rio Grande,144
+2018,homicidios_mulheres,Rio Grande do Norte,28
+2018,homicidios_mulheres,Rio Grande do Sul,117
+2018,homicidios_mulheres,Rondônia,9
+2018,homicidios_mulheres,Roraima,4
+2018,homicidios_mulheres,Santa Catarina,42
+2018,homicidios_mulheres,São Paulo,136
+2018,homicidios_mulheres,Sergipe,16
+2018,homicidios_mulheres,Tocantins,6
+2019,feminicidios,Acre,11
+2019,feminicidios,Alagoas,44
+2019,feminicidios,Amapá,7
+2019,feminicidios,Amazonas,12
+2019,feminicidios,Bahia,101
+2019,feminicidios,Ceará,34
+2019,feminicidios,Distrito Federal,65
+2019,feminicidios,Espírito Santo,35
+2019,feminicidios,Goiás,81
+2019,feminicidios,Maranhão,103
+2019,feminicidios,Mato Grosso,103
+2019,feminicidios,Minas Gerais,286
+2019,feminicidios,Pará,92
+2019,feminicidios,Paraíba,38
+2019,feminicidios,Paraná,89
+2019,feminicidios,Pernambuco,57
+2019,feminicidios,Piauí,29
+2019,feminicidios,Rio de,85
+2019,feminicidios,Rio Grande,118
+2019,feminicidios,Rondônia,7
+2019,feminicidios,Roraima,6
+2019,feminicidios,Santa Catarina,58
+2019,feminicidios,São Paulo,184
+2019,feminicidios,Sergipe,21
+2019,feminicidios,Tocantins,15
+2019,homicidios_mulheres,Acre,11
+2019,homicidios_mulheres,Alagoas,44
+2019,homicidios_mulheres,Amapá,7
+2019,homicidios_mulheres,Amazonas,12
+2019,homicidios_mulheres,Bahia,101
+2019,homicidios_mulheres,Ceará,34
+2019,homicidios_mulheres,Distrito Federal,65
+2019,homicidios_mulheres,Espírito Santo,35
+2019,homicidios_mulheres,Goiás,81
+2019,homicidios_mulheres,Maranhão,103
+2019,homicidios_mulheres,Mato Grosso,103
+2019,homicidios_mulheres,Minas Gerais,286
+2019,homicidios_mulheres,Pará,92
+2019,homicidios_mulheres,Paraíba,38
+2019,homicidios_mulheres,Paraná,89
+2019,homicidios_mulheres,Pernambuco,57
+2019,homicidios_mulheres,Piauí,29
+2019,homicidios_mulheres,Rio de,85
+2019,homicidios_mulheres,Rio Grande,118
+2019,homicidios_mulheres,Rondônia,7
+2019,homicidios_mulheres,Roraima,6
+2019,homicidios_mulheres,Santa Catarina,58
+2019,homicidios_mulheres,São Paulo,184
+2019,homicidios_mulheres,Sergipe,21
+2019,homicidios_mulheres,Tocantins,15
+2020,feminicidios,Acre,12
+2020,feminicidios,Alagoas,35
+2020,feminicidios,Amapá,9
+2020,feminicidios,Amazonas,16
+2020,feminicidios,Bahia,113
+2020,feminicidios,Ceará,27
+2020,feminicidios,Distrito Federal,17
+2020,feminicidios,Espírito Santo,26
+2020,feminicidios,Goiás,87
+2020,feminicidios,Maranhão,65
+2020,feminicidios,Mato Grosso,105
+2020,feminicidios,Mato Grosso do Sul,41
+2020,feminicidios,Minas Gerais,299
+2020,feminicidios,Pará,133
+2020,feminicidios,Paraíba,36
+2020,feminicidios,Paraná,73
+2020,feminicidios,Pernambuco,75
+2020,feminicidios,Piauí,31
+2020,feminicidios,Rio de,78
+2020,feminicidios,Rio de Janeiro,78
+2020,feminicidios,Rio Grande,93
+2020,feminicidios,Rio Grande do Norte,13
+2020,feminicidios,Rio Grande do Sul,80
+2020,feminicidios,Rondônia,14
+2020,feminicidios,Roraima,9
+2020,feminicidios,Santa Catarina,57
+2020,feminicidios,São Paulo,179
+2020,feminicidios,Sergipe,14
+2020,feminicidios,Tocantins,19
+2020,homicidios_mulheres,Acre,12
+2020,homicidios_mulheres,Alagoas,35
+2020,homicidios_mulheres,Amapá,9
+2020,homicidios_mulheres,Amazonas,16
+2020,homicidios_mulheres,Bahia,113
+2020,homicidios_mulheres,Ceará,27
+2020,homicidios_mulheres,Distrito Federal,17
+2020,homicidios_mulheres,Espírito Santo,26
+2020,homicidios_mulheres,Goiás,87
+2020,homicidios_mulheres,Maranhão,65
+2020,homicidios_mulheres,Mato Grosso,105
+2020,homicidios_mulheres,Mato Grosso do Sul,41
+2020,homicidios_mulheres,Minas Gerais,299
+2020,homicidios_mulheres,Pará,133
+2020,homicidios_mulheres,Paraíba,36
+2020,homicidios_mulheres,Paraná,73
+2020,homicidios_mulheres,Pernambuco,75
+2020,homicidios_mulheres,Piauí,31
+2020,homicidios_mulheres,Rio de,78
+2020,homicidios_mulheres,Rio de Janeiro,78
+2020,homicidios_mulheres,Rio Grande,93
+2020,homicidios_mulheres,Rio Grande do Norte,13
+2020,homicidios_mulheres,Rio Grande do Sul,80
+2020,homicidios_mulheres,Rondônia,14
+2020,homicidios_mulheres,Roraima,9
+2020,homicidios_mulheres,Santa Catarina,57
+2020,homicidios_mulheres,São Paulo,179
+2020,homicidios_mulheres,Sergipe,14
+2020,homicidios_mulheres,Tocantins,19
+2021,feminicidios,Acre,25
+2021,feminicidios,Alagoas,25
+2021,feminicidios,Amapá,4
+2021,feminicidios,Amazonas,23
+2021,feminicidios,Bahia,181
+2021,feminicidios,Ceará,31
+2021,feminicidios,Distrito Federal,25
+2021,feminicidios,Espírito Santo,38
+2021,feminicidios,Goiás,54
+2021,feminicidios,Maranhão,58
+2021,feminicidios,Mato Grosso,43
+2021,feminicidios,Mato Grosso do Sul,70
+2021,feminicidios,Minas Gerais,309
+2021,feminicidios,Pará,131
+2021,feminicidios,Paraíba,32
+2021,feminicidios,Paraná,75
+2021,feminicidios,Pernambuco,173
+2021,feminicidios,Piauí,37
+2021,feminicidios,Rio de Janeiro,85
+2021,feminicidios,Rio Grande do Norte,20
+2021,feminicidios,Rio Grande do Sul,96
+2021,feminicidios,Rondônia,16
+2021,feminicidios,Roraima,5
+2021,feminicidios,Santa Catarina,55
+2021,feminicidios,São Paulo,136
+2021,feminicidios,Sergipe,20
+2021,feminicidios,Tocantins,43
+2021,homicidios_mulheres,Acre,25
+2021,homicidios_mulheres,Alagoas,25
+2021,homicidios_mulheres,Amapá,4
+2021,homicidios_mulheres,Amazonas,23
+2021,homicidios_mulheres,Bahia,181
+2021,homicidios_mulheres,Ceará,31
+2021,homicidios_mulheres,Distrito Federal,25
+2021,homicidios_mulheres,Espírito Santo,38
+2021,homicidios_mulheres,Goiás,54
+2021,homicidios_mulheres,Maranhão,58
+2021,homicidios_mulheres,Mato Grosso,43
+2021,homicidios_mulheres,Mato Grosso do Sul,70
+2021,homicidios_mulheres,Minas Gerais,309
+2021,homicidios_mulheres,Pará,131
+2021,homicidios_mulheres,Paraíba,32
+2021,homicidios_mulheres,Paraná,75
+2021,homicidios_mulheres,Pernambuco,173
+2021,homicidios_mulheres,Piauí,37
+2021,homicidios_mulheres,Rio de Janeiro,85
+2021,homicidios_mulheres,Rio Grande do Norte,20
+2021,homicidios_mulheres,Rio Grande do Sul,96
+2021,homicidios_mulheres,Rondônia,16
+2021,homicidios_mulheres,Roraima,5
+2021,homicidios_mulheres,Santa Catarina,55
+2021,homicidios_mulheres,São Paulo,136
+2021,homicidios_mulheres,Sergipe,20
+2021,homicidios_mulheres,Tocantins,43
+2022,feminicidios,Acre,20
+2022,feminicidios,Alagoas,31
+2022,feminicidios,Amapá,17
+2022,feminicidios,Amazonas,21
+2022,feminicidios,Bahia,107
+2022,feminicidios,Ceará,57
+2022,feminicidios,Distrito Federal,41
+2022,feminicidios,Espírito Santo,68
+2022,feminicidios,Goiás,111
+2022,feminicidios,Maranhão,69
+2022,feminicidios,Mato Grosso,47
+2022,feminicidios,Mato Grosso do Sul,84
+2022,feminicidios,Minas Gerais,346
+2022,feminicidios,Pará,103
+2022,feminicidios,Paraíba,26
+2022,feminicidios,Paraná,77
+2022,feminicidios,Pernambuco,72
+2022,feminicidios,Piauí,24
+2022,feminicidios,Rio de Janeiro,111
+2022,feminicidios,Rio Grande do Norte,16
+2022,feminicidios,Rio Grande do Sul,221
+2022,feminicidios,Rondônia,47
+2022,feminicidios,Roraima,3
+2022,feminicidios,Santa Catarina,113
+2022,feminicidios,São Paulo,195
+2022,feminicidios,Sergipe,19
+2022,feminicidios,Tocantins,14
+2022,homicidios_mulheres,Acre,20
+2022,homicidios_mulheres,Alagoas,31
+2022,homicidios_mulheres,Amapá,17
+2022,homicidios_mulheres,Amazonas,21
+2022,homicidios_mulheres,Bahia,107
+2022,homicidios_mulheres,Ceará,57
+2022,homicidios_mulheres,Distrito Federal,41
+2022,homicidios_mulheres,Espírito Santo,68
+2022,homicidios_mulheres,Goiás,111
+2022,homicidios_mulheres,Maranhão,69
+2022,homicidios_mulheres,Mato Grosso,47
+2022,homicidios_mulheres,Mato Grosso do Sul,84
+2022,homicidios_mulheres,Minas Gerais,346
+2022,homicidios_mulheres,Pará,103
+2022,homicidios_mulheres,Paraíba,26
+2022,homicidios_mulheres,Paraná,77
+2022,homicidios_mulheres,Pernambuco,72
+2022,homicidios_mulheres,Piauí,24
+2022,homicidios_mulheres,Rio de Janeiro,111
+2022,homicidios_mulheres,Rio Grande do Norte,16
+2022,homicidios_mulheres,Rio Grande do Sul,221
+2022,homicidios_mulheres,Rondônia,47
+2022,homicidios_mulheres,Roraima,3
+2022,homicidios_mulheres,Santa Catarina,113
+2022,homicidios_mulheres,São Paulo,195
+2022,homicidios_mulheres,Sergipe,19
+2022,homicidios_mulheres,Tocantins,14
+2023,feminicidios,Acre,10
+2023,feminicidios,Alagoas,18
+2023,feminicidios,Amapá,4
+2023,feminicidios,Amazonas,23
+2023,feminicidios,Bahia,108
+2023,feminicidios,Ceará,42
+2023,feminicidios,Distrito Federal,33
+2023,feminicidios,Espírito Santo,35
+2023,feminicidios,Goiás,56
+2023,feminicidios,Maranhão,50
+2023,feminicidios,Mato Grosso,46
+2023,feminicidios,Mato Grosso do Sul,30
+2023,feminicidios,Minas Gerais,183
+2023,feminicidios,Pará,57
+2023,feminicidios,Paraíba,34
+2023,feminicidios,Paraná,81
+2023,feminicidios,Pernambuco,81
+2023,feminicidios,Piauí,28
+2023,feminicidios,Rio de Janeiro,99
+2023,feminicidios,Rio Grande do Norte,24
+2023,feminicidios,Rio Grande do Sul,87
+2023,feminicidios,Rondônia,21
+2023,feminicidios,Roraima,6
+2023,feminicidios,Santa Catarina,56
+2023,feminicidios,São Paulo,221
+2023,feminicidios,Sergipe,16
+2023,feminicidios,Tocantins,18
+2023,homicidios_mulheres,Acre,10
+2023,homicidios_mulheres,Alagoas,18
+2023,homicidios_mulheres,Amapá,4
+2023,homicidios_mulheres,Amazonas,23
+2023,homicidios_mulheres,Bahia,108
+2023,homicidios_mulheres,Ceará,42
+2023,homicidios_mulheres,Distrito Federal,33
+2023,homicidios_mulheres,Espírito Santo,35
+2023,homicidios_mulheres,Goiás,56
+2023,homicidios_mulheres,Maranhão,50
+2023,homicidios_mulheres,Mato Grosso,46
+2023,homicidios_mulheres,Mato Grosso do Sul,30
+2023,homicidios_mulheres,Minas Gerais,183
+2023,homicidios_mulheres,Pará,57
+2023,homicidios_mulheres,Paraíba,34
+2023,homicidios_mulheres,Paraná,81
+2023,homicidios_mulheres,Pernambuco,81
+2023,homicidios_mulheres,Piauí,28
+2023,homicidios_mulheres,Rio de Janeiro,99
+2023,homicidios_mulheres,Rio Grande do Norte,24
+2023,homicidios_mulheres,Rio Grande do Sul,87
+2023,homicidios_mulheres,Rondônia,21
+2023,homicidios_mulheres,Roraima,6
+2023,homicidios_mulheres,Santa Catarina,56
+2023,homicidios_mulheres,São Paulo,221
+2023,homicidios_mulheres,Sergipe,16
+2023,homicidios_mulheres,Tocantins,18
